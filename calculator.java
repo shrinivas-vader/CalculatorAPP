@@ -48,10 +48,7 @@ public class calculator {
 				c=a/b;
 				System.out.println(a+"+"+b+"="+c);
 				break;
-				
-				default :
-					System.out.println("Wrong choice");
-					
+									
 					
 				default :
 					System.out.println("Wrong choice");
